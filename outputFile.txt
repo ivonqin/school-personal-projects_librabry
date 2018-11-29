@@ -1,0 +1,14 @@
+Book:
+*StudyBook:
+210Textbook (Unavailable, Zipeng is using the book)
+110Textbook (Unavailable, Zipeng is using the book)
+213Textbook (Available)
+310Textbook (Available)
+121 (Unavailable, Zipeng is using the book)
+121Textbook (Available)
+*Novel:
+1984 (Available)
+CATCH-22 (Available)
+*ScienceFiction:
+Amatka (Available)
+Binti (Available)

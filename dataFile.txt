@@ -1,0 +1,14 @@
+Book:
+*CourseMaterial:
+CPSC-210 (Unavailable, Ali is using the book)
+Math-302 (Unavailable, Elisa is using the book)
+Math-307 (Unavailable, Mike is using the book)
+CPSC-221 (Unavailable, Ivon is using the book)
+PHYS-118 (Unavailable, Trey is using the book)
+BIOL-110 (Unavailable, Ivon is using the book)
+*Novel:
+Under (Unavailable, Volcano is using the book)
+Fly (Unavailable, Ivon is using the book)
+*ScienceFiction:
+Frankenstein (Available)
+Time (Unavailable, Ali is using the book)
